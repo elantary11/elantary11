@@ -1,14 +1,16 @@
 # Hi, I'm Mohamed Elantary
 
-I'm a Data Analyst and Data Engineering student who enjoys taking a project from a raw dataset to a clear business story. My work includes Power BI and Excel dashboards, analytical data models, and relational database design.
+I'm a Data Analyst and Data Engineering student. I like projects that begin with an unclear business question and end with a decision someone can actually make.
 
-## About me
+My approach is simple: understand the context, follow the evidence, and build a clear narrative around what happened, why it matters, and what should happen next. The dashboard is the final layer; the real work is making the story in the data easy to see and hard to misinterpret.
 
-- Studying Data Engineering at Taif University
+## A little about me
+
+- Studying Data Engineering at Taif University on a scholarship, after being selected as one of two students from Egypt
 - Training in Data Analysis at Route Academy
-- Building projects in real estate, e-commerce, operations, and database design
-- Currently learning more about ETL, data pipelines, and data warehousing
-- Based in Taif, Saudi Arabia
+- Building end-to-end projects across real estate, e-commerce, operations, data modeling, and database design
+- Expanding from analytics into ETL, data pipelines, and data warehousing
+- Based in Taif, Saudi Arabia and open to remote opportunities
 
 ## Tools
 
@@ -16,25 +18,29 @@ I'm a Data Analyst and Data Engineering student who enjoys taking a project from
 
 ## Featured projects
 
-### [Soly Vie Real Estate Analytics](https://github.com/elantary11/soly-vie-real-estate-analytics)
+### [Soly Vie — When bookings and cash tell different stories](https://github.com/elantary11/soly-vie-real-estate-analytics)
 
-Executive Power BI solution covering 533 units, 288.9M EGP in secured revenue, inventory potential, and collection performance.
+A 90.2% booking rate looked excellent—until I compared it with a 65.5% collection rate. I built this Power BI report to show management the gap between demand and collected cash, then translated the remaining 52 units into a 32.6M EGP inventory opportunity.
 
-### [Rabbit E-Commerce Analytics](https://github.com/elantary11/rabbit-ecommerce-analytics)
+### [Rabbit — Finding the profit behind the sales](https://github.com/elantary11/rabbit-ecommerce-analytics)
 
-Power BI analysis of 5,009 orders across sales, profit, products, customers, discounts, and shipping.
+Sales alone did not explain business health. Across 5,009 orders, I followed the relationship between products, discounts, customer segments, delivery choices, and profit—highlighting where strong revenue hid weak margins and where faster shipping was not necessarily the better decision.
 
-### [Enterprise Data Modeling](https://github.com/elantary11/enterprise-data-modeling)
+### [From transactional complexity to an analytics-ready model](https://github.com/elantary11/enterprise-data-modeling)
 
-Transformation of a complex transactional model into a cleaner dimensional model for analytics.
+I took a fragmented operational model and rebuilt it as a cleaner star schema, separating facts from dimensions and making the relationships easier to trust, query, and scale.
 
-### [University Database Design](https://github.com/elantary11/university-database-design)
+### [University database — From business rules to a working system](https://github.com/elantary11/university-database-design)
 
-Relational database project covering ERD design, mapping, normalization, SQL DDL, and physical implementation.
+A complete database-design journey: requirements, ERD, relational mapping, normalization to 3NF, SQL DDL, constraints, and the final physical schema.
 
-### [Excel Business Analytics Portfolio](https://github.com/elantary11/excel-business-analytics-portfolio)
+### [Excel analytics — Three industries, three different stories](https://github.com/elantary11/excel-business-analytics-portfolio)
 
-Interactive Excel dashboards for gaming, booking operations, and real estate.
+A set of interactive Excel dashboards for gaming, aviation booking, and real estate—each built around a different operational question rather than a repeated dashboard template.
+
+## What I care about
+
+I care about accurate numbers, honest interpretation, and presenting insights in a way that respects the audience. A useful analysis should connect the KPI to its driver, its business impact, and the next decision.
 
 ## Connect
 
