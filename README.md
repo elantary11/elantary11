@@ -1,47 +1,63 @@
-# Hi, I'm Mohamed Elantary
+# Mohamed Elantary — Data Analyst
 
-I'm a Data Analyst and Data Engineering student. I like projects that begin with an unclear business question and end with a decision someone can actually make.
+I turn business questions into **clear, trustworthy data stories**.
 
-My approach is simple: understand the context, follow the evidence, and build a clear narrative around what happened, why it matters, and what should happen next. The dashboard is the final layer; the real work is making the story in the data easy to see and hard to misinterpret.
+My work starts before the dashboard: understanding the real decision, validating the numbers, designing the data model, and defining KPIs that mean something. I use **Power BI, SQL, Excel, Python, Power Query, and DAX** to make the evidence easy to understand—and the next action hard to miss.
 
-## A little about me
+## What I bring
 
-- Studying Data Engineering at Taif University on a scholarship, after being selected as one of two students from Egypt
-- Training in Data Analysis at Route Academy
-- Building end-to-end projects across real estate, e-commerce, operations, data modeling, and database design
-- Expanding from analytics into ETL, data pipelines, and data warehousing
-- Based in Taif, Saudi Arabia and open to remote opportunities
+- Business-first analysis, from requirements to executive recommendations
+- Power BI reports backed by reliable DAX and structured data models
+- Data cleaning and transformation with SQL, Power Query, Excel, and Python
+- Clear documentation and storytelling for technical and non-technical audiences
+- Practical experience across real estate, e-commerce, operations, gaming, and database design
 
-## Tools
+## Featured work
 
-`Power BI` `SQL` `Excel` `Python` `Power Query` `DAX` `Data Modeling` `ETL`
+### [Soly Vie — When 90.2% booked still leaves a cash-conversion problem](https://github.com/elantary11/soly-vie-real-estate-analytics)
 
-## Featured projects
+[![Soly Vie executive overview](https://raw.githubusercontent.com/elantary11/soly-vie-real-estate-analytics/main/assets/executive-overview.png)](https://github.com/elantary11/soly-vie-real-estate-analytics)
 
-### [Soly Vie — When bookings and cash tell different stories](https://github.com/elantary11/soly-vie-real-estate-analytics)
-
-A 90.2% booking rate looked excellent—until I compared it with a 65.5% collection rate. I built this Power BI report to show management the gap between demand and collected cash, then translated the remaining 52 units into a 32.6M EGP inventory opportunity.
+A 90.2% booking rate looked like the headline. Comparing it with a 65.5% customer conversion rate revealed the real management opportunity: **107 customers still in the pipeline and 32.6M EGP tied to 52 available units**. I rebuilt the report around conversion, inventory concentration, pricing protection, and segment-specific action—then added Arabic executive briefs that connect every page to a decision and a KPI.
 
 ### [Rabbit — Finding the profit behind the sales](https://github.com/elantary11/rabbit-ecommerce-analytics)
 
-Sales alone did not explain business health. Across 5,009 orders, I followed the relationship between products, discounts, customer segments, delivery choices, and profit—highlighting where strong revenue hid weak margins and where faster shipping was not necessarily the better decision.
+Across 5,009 orders, I traced how products, discounts, customer segments, and shipping choices affected profit. The analysis highlights where strong revenue hides weak margins and why faster delivery is not always the better commercial decision.
 
-### [From transactional complexity to an analytics-ready model](https://github.com/elantary11/enterprise-data-modeling)
+### [Enterprise Data Modeling — From transactional complexity to a trusted analytical model](https://github.com/elantary11/enterprise-data-modeling)
 
-I took a fragmented operational model and rebuilt it as a cleaner star schema, separating facts from dimensions and making the relationships easier to trust, query, and scale.
+I rebuilt a fragmented operational model as a cleaner star schema, separated facts from dimensions, validated the business totals throughout the transformation, and made the final structure easier to query, explain, and scale.
 
-### [University database — From business rules to a working system](https://github.com/elantary11/university-database-design)
+### [Excel Dashboard Portfolio — Business questions answered without hiding behind the charts](https://github.com/elantary11/excel-dashboard-portfolio)
 
-A complete database-design journey: requirements, ERD, relational mapping, normalization to 3NF, SQL DDL, constraints, and the final physical schema.
+A collection of interactive Excel dashboards covering real estate, aviation, and gaming. Each project focuses on the decision behind the visual: demand, cancellation risk, inventory, customer preference, and commercial performance.
 
-### [Excel analytics — Three industries, three different stories](https://github.com/elantary11/excel-business-analytics-portfolio)
+### [University Database System — From business rules to a working relational database](https://github.com/elantary11/university-database-system)
 
-A set of interactive Excel dashboards for gaming, aviation booking, and real estate—each built around a different operational question rather than a repeated dashboard template.
+An end-to-end database design project covering requirements, ERD mapping, relational mapping, normalization to 3NF, SQL DDL, constraints, and a production-ready physical schema.
 
-## What I care about
+## Core stack
 
-I care about accurate numbers, honest interpretation, and presenting insights in a way that respects the audience. A useful analysis should connect the KPI to its driver, its business impact, and the next decision.
+`Power BI` · `SQL` · `Excel` · `Python` · `Power Query` · `DAX` · `Data Modeling` · `ETL` · `Business Analysis` · `Data Storytelling`
+
+## How I think about analytics
+
+I do not measure a project by the number of charts it contains. I measure it by whether someone can answer four questions after using it:
+
+1. What happened?
+2. Why does it matter?
+3. What does the evidence support?
+4. What should we do next?
+
+That is the standard I use for every model, KPI, dashboard, and project story.
+
+## Background
+
+Currently strengthening the engineering side of my work through Data Engineering studies at Taif University, with a focus on ETL, pipelines, and scalable data solutions. I also volunteer with Resala Charity Organization, where I continue building communication, teamwork, and responsibility in real-world settings.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-elantary-data/) | [GitHub](https://github.com/elantary11)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-elantary-data/)
+- Email: `elantary11@gmail.com`
+
+Open to **Data Analyst, BI Analyst, Reporting Analyst, Junior Power BI Developer, and Junior Data Engineer** opportunities.
