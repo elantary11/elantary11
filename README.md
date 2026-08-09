@@ -1,63 +1,95 @@
-# Mohamed Elantary — Data Analyst
+# Mohamed Elantary
 
-I turn business questions into **clear, trustworthy data stories**.
+## Data Analyst | Business Intelligence | Power BI & Data Modeling
 
-My work starts before the dashboard: understanding the real decision, validating the numbers, designing the data model, and defining KPIs that mean something. I use **Power BI, SQL, Excel, Python, Power Query, and DAX** to make the evidence easy to understand—and the next action hard to miss.
+I build reliable analytical solutions from business requirements to final executive reporting. My work covers **data cleaning, SQL analysis, relational and analytical modeling, DAX, KPI design, interactive dashboards, documentation, and decision-focused insights**.
 
-## What I bring
+`Power BI` · `SQL` · `Excel` · `Python` · `Power Query` · `DAX` · `Data Modeling` · `ETL` · `Business Analysis`
 
-- Business-first analysis, from requirements to executive recommendations
-- Power BI reports backed by reliable DAX and structured data models
-- Data cleaning and transformation with SQL, Power Query, Excel, and Python
-- Clear documentation and storytelling for technical and non-technical audiences
-- Practical experience across real estate, e-commerce, operations, gaming, and database design
+## Technical Skills
 
-## Featured work
+| Area | Skills |
+|---|---|
+| **Business Intelligence** | Power BI, KPI Design, Dashboard Development, Executive Reporting, Data Visualization |
+| **Data Analysis** | SQL, Excel, Python, Exploratory Analysis, Data Cleaning, Business Requirements |
+| **Power BI Development** | DAX Measures, Power Query, Filter Context, Time Intelligence, Tooltips, HTML Content |
+| **Data Modeling** | Star Schema, Fact & Dimension Tables, Relationships, Cardinality, Normalization, Junk Dimensions |
+| **Database Design** | ERD, Relational Mapping, 1NF–3NF, SQL Server DDL, Primary & Foreign Keys, Constraints |
+| **Data Engineering Foundations** | ETL, Data Pipelines, Data Warehousing, Data Quality, Scalable Data Solutions |
+| **Communication** | Data Storytelling, Executive Summaries, Technical Documentation, Decision Recommendations |
 
-### [Soly Vie — When 90.2% booked still leaves a cash-conversion problem](https://github.com/elantary11/soly-vie-real-estate-analytics)
+## Featured Projects
 
-[![Soly Vie executive overview](https://raw.githubusercontent.com/elantary11/soly-vie-real-estate-analytics/main/assets/executive-overview.png)](https://github.com/elantary11/soly-vie-real-estate-analytics)
+### [Real Estate Revenue, Inventory & Customer Analytics — Soly Vie](https://github.com/elantary11/soly-vie-real-estate-analytics)
 
-A 90.2% booking rate looked like the headline. Comparing it with a 65.5% customer conversion rate revealed the real management opportunity: **107 customers still in the pipeline and 32.6M EGP tied to 52 available units**. I rebuilt the report around conversion, inventory concentration, pricing protection, and segment-specific action—then added Arabic executive briefs that connect every page to a decision and a KPI.
+[![Soly Vie Power BI real estate analytics dashboard](https://raw.githubusercontent.com/elantary11/soly-vie-real-estate-analytics/main/assets/executive-overview.png)](https://github.com/elantary11/soly-vie-real-estate-analytics)
 
-### [Rabbit — Finding the profit behind the sales](https://github.com/elantary11/rabbit-ecommerce-analytics)
+**Domain:** Real Estate · **Tools:** Power BI, Power Query, DAX, Data Modeling, HTML/CSS
 
-Across 5,009 orders, I traced how products, discounts, customer segments, and shipping choices affected profit. The analysis highlights where strong revenue hides weak margins and why faster delivery is not always the better commercial decision.
+- Built an executive BI solution covering **533 units, 310 customers, and 288.9M EGP**.
+- Measured booking performance, customer conversion, inventory value, unit mix, and VIP contribution.
+- Identified **107 customers in the pipeline** and **32.6M EGP** in remaining inventory opportunity.
+- Added Arabic executive insight pages linking KPIs to management actions and monitoring targets.
 
-### [Enterprise Data Modeling — From transactional complexity to a trusted analytical model](https://github.com/elantary11/enterprise-data-modeling)
+### [E-commerce Sales, Profit, Customer & Shipping Analytics — Rabbit](https://github.com/elantary11/rabbit-ecommerce-analytics)
 
-I rebuilt a fragmented operational model as a cleaner star schema, separated facts from dimensions, validated the business totals throughout the transformation, and made the final structure easier to query, explain, and scale.
+[![Rabbit Power BI e-commerce analytics dashboard](https://raw.githubusercontent.com/elantary11/rabbit-ecommerce-analytics/main/assets/overview.png)](https://github.com/elantary11/rabbit-ecommerce-analytics)
 
-### [Excel Dashboard Portfolio — Business questions answered without hiding behind the charts](https://github.com/elantary11/excel-dashboard-portfolio)
+**Domain:** E-commerce & Retail · **Tools:** Power BI, Power Query, DAX, Data Analysis
 
-A collection of interactive Excel dashboards covering real estate, aviation, and gaming. Each project focuses on the decision behind the visual: demand, cancellation risk, inventory, customer preference, and commercial performance.
+- Analyzed **5,009 orders** across sales, profit, products, customers, discounts, regions, and delivery.
+- Built separate views for executive performance, product profitability, customer behavior, and shipping operations.
+- Compared revenue with margin to expose discount and product-level profit risks.
+- Delivered interactive reporting supported by a documented project walkthrough.
 
-### [University Database System — From business rules to a working relational database](https://github.com/elantary11/university-database-system)
+### [Enterprise Data Modeling & Star Schema Optimization](https://github.com/elantary11/enterprise-data-modeling)
 
-An end-to-end database design project covering requirements, ERD mapping, relational mapping, normalization to 3NF, SQL DDL, constraints, and a production-ready physical schema.
+[![Power BI star schema after model optimization](https://raw.githubusercontent.com/elantary11/enterprise-data-modeling/main/assets/after.png)](https://github.com/elantary11/enterprise-data-modeling)
 
-## Core stack
+**Domain:** Enterprise Analytics Architecture · **Tools:** Power BI, Power Query, Star Schema, Data Validation
 
-`Power BI` · `SQL` · `Excel` · `Python` · `Power Query` · `DAX` · `Data Modeling` · `ETL` · `Business Analysis` · `Data Storytelling`
+- Transformed fragmented operational tables into an analytics-ready star schema.
+- Separated fact and dimension tables and simplified filter paths and relationships.
+- Applied reusable dimensions, a junk dimension, factless facts, and snapshot modeling concepts.
+- Preserved business totals through baseline measures and validation checks before and after transformation.
 
-## How I think about analytics
+### [Excel Business Analytics Portfolio — Gaming, Aviation & Real Estate](https://github.com/elantary11/excel-business-analytics-portfolio)
 
-I do not measure a project by the number of charts it contains. I measure it by whether someone can answer four questions after using it:
+[![Excel gaming sales analytics dashboard](https://raw.githubusercontent.com/elantary11/excel-business-analytics-portfolio/main/assets/gamescope.png)](https://github.com/elantary11/excel-business-analytics-portfolio)
 
-1. What happened?
-2. Why does it matter?
-3. What does the evidence support?
-4. What should we do next?
+**Domains:** Gaming, Aviation, Real Estate · **Tools:** Excel, PivotTables, PivotCharts, Slicers, Business Analysis
 
-That is the standard I use for every model, KPI, dashboard, and project story.
+- Developed three interactive Excel dashboards across different business domains.
+- Analyzed global gaming sales and platform/genre performance.
+- Assessed aviation booking volume, cancellation behavior, lead time, channels, and add-ons.
+- Tracked real-estate inventory, sales value, availability, property type, and location performance.
 
-## Background
+### [University Management Database Design — ERD to SQL Server](https://github.com/elantary11/university-database-design)
 
-Currently strengthening the engineering side of my work through Data Engineering studies at Taif University, with a focus on ETL, pipelines, and scalable data solutions. I also volunteer with Resala Charity Organization, where I continue building communication, teamwork, and responsibility in real-world settings.
+[![University management database ERD](https://raw.githubusercontent.com/elantary11/university-database-design/main/assets/erd.png)](https://github.com/elantary11/university-database-design)
 
-## Connect
+**Domain:** Education Management System · **Tools:** ERD, Relational Mapping, Normalization, SQL Server, DDL
+
+- Converted academic business rules into a complete conceptual ERD.
+- Mapped entities and relationships into relational tables with junction tables for many-to-many relationships.
+- Normalized the model from 1NF to 3NF to reduce redundancy and update anomalies.
+- Implemented the physical schema using primary keys, foreign keys, composite keys, and constraints.
+
+## What Recruiters Can Review Here
+
+- End-to-end BI projects with clear business requirements and KPIs
+- Power BI dashboards, DAX measures, Power Query transformations, and data models
+- Excel dashboards across multiple industries
+- Database architecture from ERD and normalization to SQL implementation
+- Executive documentation that explains findings, risks, and recommended decisions
+- Project screenshots, walkthrough videos, PDFs, and supporting technical documentation
+
+## Professional Focus
+
+Open to roles in **Data Analysis, Business Intelligence, Reporting, Power BI Development, and Junior Data Engineering**. I am currently strengthening my ETL, pipeline, and data warehousing skills alongside practical analytics work.
+
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-elantary-data/)
 - Email: `elantary11@gmail.com`
-
-Open to **Data Analyst, BI Analyst, Reporting Analyst, Junior Power BI Developer, and Junior Data Engineer** opportunities.
+- Location: Taif, Saudi Arabia · Open to remote opportunities
