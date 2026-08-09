@@ -1,6 +1,6 @@
-# Mohamed Elantary
+# Mohamed Elantary | Data Analyst & BI Developer
 
-## Data Analyst | Business Intelligence | Power BI & Data Modeling
+## Power BI · SQL · Excel · Python · DAX · Data Modeling
 
 I build reliable analytical solutions from business requirements to final executive reporting. My work covers **data cleaning, SQL analysis, relational and analytical modeling, DAX, KPI design, interactive dashboards, documentation, and decision-focused insights**.
 
@@ -16,7 +16,7 @@ I build reliable analytical solutions from business requirements to final execut
 | **Data Modeling** | Star Schema, Fact & Dimension Tables, Relationships, Cardinality, Normalization, Junk Dimensions |
 | **Database Design** | ERD, Relational Mapping, 1NF–3NF, SQL Server DDL, Primary & Foreign Keys, Constraints |
 | **Data Engineering Foundations** | ETL, Data Pipelines, Data Warehousing, Data Quality, Scalable Data Solutions |
-| **Communication** | Data Storytelling, Executive Summaries, Technical Documentation, Decision Recommendations |
+| **Communication** | Executive Summaries, Technical Documentation, Stakeholder Reporting, Decision Recommendations |
 
 ## Featured Projects
 
