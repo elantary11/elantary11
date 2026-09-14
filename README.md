@@ -1,4 +1,4 @@
-# Mohamed Elantary — Data Analyst
+# Mohamed Elantary - Data Analyst
 
 I build analysis that can be followed from the business question to the final decision. My focus is on trustworthy numbers, useful data models, and dashboards that make the next action clear—not on adding visuals for their own sake.
 
